@@ -20,5 +20,68 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "수성관": {
+      "style": "tan",
+      "wall": "#d8cfb8",
+      "glass": "#3f5a66",
+      "frame": "#8c8f8e"
+    },
+    "제2공학관": {
+      "style": "stone",
+      "wall": "#8c857f",
+      "glass": "#2f3439",
+      "frame": "#d4d0c8"
+    },
+    "제1공학관": {
+      "style": "stone",
+      "wall": "#cf7b72",
+      "glass": "#3a3f44",
+      "frame": "#f2f0ec"
+    },
+    "의학관": {
+      "style": "ribbon",
+      "wall": "#d9dadc",
+      "glass": "#5f8a96",
+      "frame": "#9aa5ab"
+    },
+    "삼성학술정보관": {
+      "style": "glass",
+      "wall": "#c8ced3",
+      "glass": "#3f4c50",
+      "frame": "#b8bfc5"
+    },
+    "E센터 및 CNS센터": {
+      "style": "glass",
+      "wall": "#a9583c",
+      "glass": "#2f5450",
+      "frame": "#9a4a32"
+    },
+    "체육관": {
+      "style": "concrete",
+      "wall": "#b9c0c3",
+      "glass": "#3d4a52",
+      "frame": "#8e9b91"
+    },
+    "N 센터": {
+      "style": "glass",
+      "wall": "#e3d8cb",
+      "glass": "#4a6380",
+      "frame": "#6f7a85"
+    },
+    "제2종합연구동": {
+      "style": "ribbon",
+      "wall": "#c9cbcd",
+      "glass": "#4f7a80",
+      "frame": "#969ba6"
+    },
+    "제2과학관": {
+      "style": "tan",
+      "wall": "#ad8c60",
+      "glass": "#3a4248",
+      "frame": "#e9e9e6"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
