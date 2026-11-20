@@ -1,0 +1,34 @@
+{
+ "region": "경기 수원시 장안구 천천동",
+ "nameEn": "Sungkyunkwan University Natural Sciences Campus",
+ "added": "2026-10-17",
+ "rank": 73,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "DONGNAM",
+   "campus": "동남보건대학교",
+   "km": 1.2
+  },
+  {
+   "code": "KNUT-UIWANG",
+   "campus": "국립한국교통대학교 의왕캠퍼스",
+   "km": 3.0
+  },
+  {
+   "code": "SWC",
+   "campus": "수원여자대학교 인제캠퍼스",
+   "km": 4.8
+  },
+  {
+   "code": "KYONGGI",
+   "campus": "경기대학교 수원캠퍼스",
+   "km": 5.6
+  },
+  {
+   "code": "HANSEI",
+   "campus": "한세대학교",
+   "km": 6.0
+  }
+ ]
+}
